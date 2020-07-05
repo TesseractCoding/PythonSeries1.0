@@ -115,7 +115,7 @@ Readme.md
 ~$ git log
 ```
 
-> The name of the folder and the name of the repo can be different. However, by default the name of the repo on github is clone everywhere
+> The name of the folder in your local system and the name of the remote repo can be different. However, by default the name of the repo on github is cloned everywhere
 
 ***
 
