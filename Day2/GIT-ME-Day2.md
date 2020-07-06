@@ -15,8 +15,8 @@ The git checkout command lets you navigate between the branches created by git b
 ### Testing Assignment submission :wink: 
 
 ```console
-git clone https://github.com/TesseractCoding/python-series.git
-cd python-series/Day2/submission_test
+git clone https://github.com/TesseractCoding/PythonSeries1.0.git
+cd PythonSeries1.0/Day2/submission_test
 git branch <new branch name>[this should be your first and last name, for eg. for me 'Vinamra Munot']
 git checkout <new branch name>
 ```
