@@ -7,9 +7,14 @@
   - Go the https://github.com/TesseractCoding/PythonSeries1.0
   - On the right corner of the screen click on the fork button
   
-  <p align="center"><img src="img/fork.png" /></p>
+<p align="center"><img src="img/fork.png" /></p>
   
-  
+  - The result should look something like this
+> The PythonSeries1.0 should be copied to your github
+
+<p align="center"><img src="img/fork_1.png" /></p>
+
+
 
 ```console
 git clone https://github.com/TesseractCoding/PythonSeries1.0.git
