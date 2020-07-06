@@ -10,6 +10,9 @@
 <p align="center"><img src="img/fork.png" /></p>
   
   - The result should look something like this
+
+***
+
 > The PythonSeries1.0 should be copied to your github
 
 <p align="center"><img src="img/fork_1.png" /></p>
