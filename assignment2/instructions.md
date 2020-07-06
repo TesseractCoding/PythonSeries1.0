@@ -40,7 +40,9 @@ git push -u origin master
 > After pushing the code on the master branch, please go back to `https://github.com/<github username>/PythonSeries1.0.git`
 >
 > You should be able to see a message on the repo "This branch is 1 commit ahead of TesseractCoding: master..."
->
+
+<hr>
+
 > Click on the Pull Request
 <p align="center"><img src="img/pull-request.png" /></p>
 
