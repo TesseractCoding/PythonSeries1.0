@@ -2,6 +2,14 @@
 
 
 ### Testing Assignment submission :wink: 
+1. Fork the repo
+  - SignIn into github.com
+  - Go the https://github.com/TesseractCoding/PythonSeries1.0
+  - On the right corner of the screen click on the fork button
+  
+  <p align="center"><img src="img/fork.png" /></p>
+  
+  
 
 ```console
 git clone https://github.com/TesseractCoding/PythonSeries1.0.git
